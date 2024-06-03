@@ -10,7 +10,7 @@
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "923136180115"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
@@ -25,7 +25,7 @@
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": §H£Ba@Z
     },
     "PREFIX": {
       "description": "Set Your Prefix Here",
@@ -35,7 +35,7 @@
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
+      "value": §H£Ba@Z"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
